@@ -1,5 +1,5 @@
 # python-core-curriculum
-
+Kaggle courses
 <br>Python For Everyone, UMichigan
 <br>https://www.python.org/
 <br>https://www.pythonforbeginners.com/
