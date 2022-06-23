@@ -27,3 +27,6 @@ Kaggle courses
 <br>MIT Intro CS and Python
 <br>https://www.learnpython.org/
 <br>W3 school
+
+
+version control
