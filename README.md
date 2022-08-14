@@ -1,5 +1,6 @@
 # python-core-curriculum
 
+Goal - prepare educational resources for new programmers interested in writing Python
 <br>Python For Everyone, UMichigan
 <br/>Kaggle Course
 <br/>Python Coding for Kids Ages 10+, Makda https://www.amazon.com/Python-Coding-Kids-Ages-Descriptive/dp/B09VZ9R749/ref=zg_bs_280292_12/141-9801121-3084632?pd_rd_i=B09VZ9R749&psc=1
