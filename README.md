@@ -2,8 +2,8 @@
 
 Goal - prepare educational resources for new programmers interested in writing Python. Allows for progressive overload, project based learning in a professional setting and keys to making it through with certifications.
 
-Automating with Python
-Deliberate Practice
+<br/>Automating with Python
+<br/>Deliberate Practice
     Leetcode
     Coding Games and Problems
 <br>Python For Everyone, UMichigan
