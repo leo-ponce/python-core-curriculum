@@ -2,14 +2,14 @@
 
 Goal - prepare educational resources for new programmers interested in writing Python. Allows for progressive overload, project based learning in a professional setting and keys to making it through with certifications.
 
-Harvard class
-<br>Python For Everyone, UMichigan
-Wikipedia
+1. Harvard class
+2. <br>Python For Everyone, UMichigan
+3. Wikipedia
      version control
      dynamic programming
      whats cobol
-<br/>Automating with Python
-<br/>Deliberate Practice
+4. <br/>Automating with Python
+5. <br/>Deliberate Practice
     Leetcode
     Coding Games and Problems
 
