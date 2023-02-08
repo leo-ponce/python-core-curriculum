@@ -14,7 +14,7 @@ Goal - prepare educational resources for new programmers interested in writing P
     Coding Games and Problems
 
 5. <br/>Kaggle Course
-<br/>Clean code
+7. <br/>Clean code
 <br/>Clean architecture
 <br/>Python Coding for Kids Ages 10+, Makda https://www.amazon.com/Python-Coding-Kids-Ages-Descriptive/dp/B09VZ9R749/ref=zg_bs_280292_12/141-9801121-3084632?pd_rd_i=B09VZ9R749&psc=1
 <br>https://www.python.org/
