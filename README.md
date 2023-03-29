@@ -12,7 +12,7 @@ Goal - prepare educational resources for new programmers interested in writing P
 5. <br/>Deliberate Practice
     Leetcode
     Coding Games and Problems
-
+https://www.youtube.com/watch?v=9s29LKfEFjQ
 5. <br/>Kaggle Course
 7. <br/>Clean code
 <br/>Clean architecture
