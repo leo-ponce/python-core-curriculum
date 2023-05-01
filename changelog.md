@@ -15,7 +15,7 @@ If anything, or any issues, bring up in office hours
    Python 4 Everyone (get book and make project specified in today's notes to make projet happen for learning how to learn tool)
    Fluent Python while in class
    Teaching modules w/ ppl (Emily Charles)
-2. 
+2. Finish Python for everyone
 
 
 
