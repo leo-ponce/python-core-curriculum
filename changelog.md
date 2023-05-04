@@ -16,6 +16,7 @@ If anything, or any issues, bring up in office hours
    Fluent Python while in class
    Teaching modules w/ ppl (Emily Charles)
 2. Finish Python for everyone
+3. Review CS50x
 
 
 
