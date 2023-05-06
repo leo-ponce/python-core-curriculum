@@ -19,7 +19,18 @@ If anything, or any issues, bring up in office hours
 3. Review CS50x
 
 
-
+2023-05-06
+1. DECISON: to complete Python For Everyone on Youtube as first goal
+2. Next steps: 
+   A. Clean up all notes on the Python For Everyone colab link
+   B. Review all materials || creating flashcards document w/ code recreation tests / links
+   C. Continue material from 1:29:39
+3. Continue:
+   Learn how to maintain changelog
+   Learn to type more quickly
+   Python 4 Everyone (get book and make project specified in today's notes to make projet happen for learning how to learn tool)
+   Fluent Python while in class
+   Review CS50x
 
 
 
