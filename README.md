@@ -2,6 +2,16 @@
 
 Goal - prepare educational resources for new programmers interested in writing Python. Allows for progressive overload, project based learning in a professional setting and keys to making it through with certifications.
 
+x = 5
+y = 7
+
+print('Peace on earth')
+     if x + y == 12
+
+
+
+
+
 1. Harvard class CS50
 2. <br>Python For Everyone, UMichigan
 3. Wikipedia
