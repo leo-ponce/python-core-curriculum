@@ -11,13 +11,14 @@ print('Peace on earth')
 
 
 
-
+0. learning cycle, learn how to learn
 1. Harvard class CS50
 2. <br>Python For Everyone, UMichigan
 3. Wikipedia
      version control
      dynamic programming
      whats cobol
+     data science 
 4. <br/>Automating with Python
 5. <br/>Deliberate Practice
     Leetcode
