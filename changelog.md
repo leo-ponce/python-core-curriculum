@@ -17,6 +17,8 @@ If anything, or any issues, bring up in office hours
    Teaching modules w/ ppl (Emily Charles)
 2. Finish Python for everyone
 3. Review CS50x
+4. Pragmatic programmer
+5. clean code, clean architecture 
 
 
 2023-05-06
